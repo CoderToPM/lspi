@@ -19,7 +19,7 @@
 
 *当你需要的时候，在控制台输入lspi即可看到如下图所示的内容：*
 
-![image](https://github.com/CoderToPM/lspi/blob/master/screenshots/6EF27631-25D2-4EFA-BA7E-27B84D366D9C.png)
+![image](https://github.com/CoderToPM/lspi/blob/master/screenshots/6EF27631-25D2-4EFA-BA7E-27B84D366D9D.png)
 
 # lspi description
 Quick command scripts for viewing lists of Linux processes and ports
